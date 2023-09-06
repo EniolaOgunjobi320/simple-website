@@ -1,0 +1,27 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(227, 232, 237);
+    color: #333;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: rebeccapurple;
+}
+
+a:hover, a:active {
+    color: goldenrod;
+}
+
+table,tr,th,td,caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
